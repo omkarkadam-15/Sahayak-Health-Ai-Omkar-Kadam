@@ -1,0 +1,12 @@
+google-adk
+google-genai
+litellm
+fastapi
+uvicorn
+python-dotenv
+requests
+pandas
+numpy
+scikit-learn
+datasets
+sentence-transformers
